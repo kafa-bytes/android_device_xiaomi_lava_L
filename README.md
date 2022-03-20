@@ -1,1 +1,1 @@
-# Device Tree Android 12L
+# Device Tree Android 12L Lava
