@@ -53,4 +53,5 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     GboardGo \
-    GoogleCameraGo
+    GoogleCameraGo \
+    ScreenRecorder
