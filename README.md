@@ -1,2 +1,2 @@
 # SharkArt-Supremacy
-Hanya untuk bermain-main
+Jangan lupa pilih branch
